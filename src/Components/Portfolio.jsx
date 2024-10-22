@@ -46,13 +46,14 @@ const projectList = [
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://abhishek-portofolio-27a3c1.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: " My GitHub Profile",
+
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "you will  find all of   my MERN Stacck projects there and  u will fined inofrmation on my work ",
+    url: "https://github.com/Abhisheksathala",
   },
 ];
 
